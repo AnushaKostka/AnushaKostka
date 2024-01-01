@@ -1,4 +1,5 @@
-## <p style = centre > Embarking on Dreams: The Chronicles of Anusha Kostka's Journey </p>
+
+<h1 align="center">Embarking on Dreams: The Chronicles of Anusha Kostka's Journey</h1>
 
 👋 Hi, <p style = justify >Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling.</p>
 
