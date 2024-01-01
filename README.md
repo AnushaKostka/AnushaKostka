@@ -12,7 +12,7 @@
 <p style = justify >Driven by a thirst for deeper insights, I pursued a Master's degree in Data Science and Engineering. This academic pursuit equipped me with the skills and knowledge to navigate the vast sea of data, unlocking its potential to shape a better future.</p>
 
 **Professional Path**
-<p style = justify >Fueled by a passion for sharing knowledge, I transitioned into the world of academia. As a Teaching and Assistant Professor, I have been fortunate to inspire and guide young minds, nurturing the next generation of tech enthusiasts.</p>
+<p style = justify >Fueled by a passion for sharing knowledge, I transitioned into the world of academia.  I have been fortunate to inspire and guide young minds, nurturing the next generation of tech enthusiasts.</p>
 
 **Creative Pursuits**
 <p style = justify >Beyond the realms of technology and academia, my heart finds solace in the world of art. I have explored the realms of drawing, painting, macramé, embroidery, and candle making. Each stroke of the brush, every knot tied, and the flicker of candlelight tells a story of my creative spirit.</p>
