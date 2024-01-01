@@ -9,10 +9,10 @@
 **Professional Path** :briefcase: :rocket: 🌐 <p align="justify">Devoted to nurturing emerging talents, I serve as an educator with a fervor for shaping future tech enthusiasts. Within the dynamic realm of academia, my role involves guiding students, sharing knowledge, and fostering intellectual development. Teaching transcends a mere profession; it stands as a meaningful vocation where each lecture plays a part in molding the aspirations of the next generation.</p>
 
 **Creative Pursuits** :art: ✏️ 🖌️ :thread: 🕯️ 📚 🎭 
-<p align="justify">Beyond the realms of technology and academia, my heart finds solace in the world of art. I have explored the realms of drawing, painting, macramé, embroidery, and candle making. Each stroke of the brush, every knot tied, and the flicker of candlelight tells a story of my creative spirit. In addition to my academic and artistic pursuits, I have delved into the realm of storytelling. My pen weaves tales that transport readers to uncharted realms, expressing the kaleidoscope of emotions within me.</p> :star::star::star::star::star:
+<p align="justify">Beyond the realms of technology and academia, my heart finds solace in the world of art. I have explored the realms of drawing, painting, macramé, embroidery, and candle making. Each stroke of the brush, every knot tied, and the flicker of candlelight tells a story of my creative spirit. In addition to my academic and artistic pursuits, I have delved into the realm of storytelling. My pen weaves tales that transport readers to uncharted realms, expressing the kaleidoscope of emotions within me.</p> 
 
 
-<p align="justify">My life's journey, from the realms of computer science to the corridors of academia and the vibrant palette of creativity, is a testament to the beautiful interplay of technology and art. As I continue to navigate through the pixels of data and the pages of stories, I am excited to see what the future holds, ready to embrace the next chapter with an open heart and a curious mind.</p>
+<p align="justify">My life's journey, from the realms of computer science to the corridors of academia and the vibrant palette of creativity, is a testament to the beautiful interplay of technology and art. As I continue to navigate through the pixels of data and the pages of stories, I am excited to see what the future holds, ready to embrace the next chapter with an open heart and a curious mind.</p> :star::star::star::star::star:
 
 - 👀 I’m interested in DS
 - 🌱 I’m currently learning a lot in Data Science
