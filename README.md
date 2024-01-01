@@ -1,8 +1,8 @@
 ## <p style = center > Embarking on Dreams: The Chronicles of Anusha Kostka's Journey </p>
 
-- 👋 Hi, I’m @AnushaKostka
+👋 Hi, I’m @AnushaKostka
 
-- <p style = justify >Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling.</p>
+<p style = justify >Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling.</p>
 
 **Early Years**
 <p style = justify >I entered this world with the promise of endless possibilities, surrounded by the rich cultural heritage of Tamil Nadu. Growing up, I discovered my love for technology, paving the way for a future in Computer Science and Engineering.</p>
