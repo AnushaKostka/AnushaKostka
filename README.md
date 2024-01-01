@@ -16,7 +16,7 @@
 
 
  
-- 📫 How to reach me @AnushaKostka GitHub
+- 📫 Reach me @AnushaKostka GitHub
 
 <!---
 AnushaKostka/AnushaKostka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
