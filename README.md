@@ -10,10 +10,7 @@
 <p align="justify">Fueled by a passion for sharing knowledge, I transitioned into the world of academia.  I have been fortunate to inspire and guide young minds, nurturing the next generation of tech enthusiasts.</p>
 
 **Creative Pursuits**
-<p align="justify">Beyond the realms of technology and academia, my heart finds solace in the world of art. I have explored the realms of drawing, painting, macramé, embroidery, and candle making. Each stroke of the brush, every knot tied, and the flicker of candlelight tells a story of my creative spirit.</p>
-
-**Literary Ventures**
-<p align="justify">In addition to my academic and artistic pursuits, I have delved into the realm of storytelling. My pen dances on the pages, weaving tales that transport readers to new worlds. Writing, for me, is not just a hobby but a means of expression, a way to share the kaleidoscope of emotions within.</p>
+<p align="justify">Beyond the realms of technology and academia, my heart finds solace in the world of art. I have explored the realms of drawing, painting, macramé, embroidery, and candle making. Each stroke of the brush, every knot tied, and the flicker of candlelight tells a story of my creative spirit. In addition to my academic and artistic pursuits, I have delved into the realm of storytelling. My pen dances on the pages, weaving tales that transport readers to new worlds. Writing, for me, is not just a hobby but a means of expression, a way to share the kaleidoscope of emotions within.</p>
 
 
 <p align="justify">My life's journey, from the realms of computer science to the corridors of academia and the vibrant palette of creativity, is a testament to the beautiful interplay of technology and art. As I continue to navigate through the pixels of data and the pages of stories, I am excited to see what the future holds, ready to embrace the next chapter with an open heart and a curious mind.</p>
