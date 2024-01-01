@@ -1,10 +1,7 @@
 
 <h1 align="center">Embarking on Dreams: The Chronicles of Anusha Kostka's Journey</h1>
 
-👋 Hi, <p align="justify">Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling.</p>
-
-**Early Years**
-<p align="justify">I entered this world with the promise of endless possibilities, surrounded by the rich cultural heritage of Tamil Nadu. Growing up, I discovered my love for technology, paving the way for a future in Computer Science and Engineering.</p>
+👋 Hi, <p align="justify">Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling. I entered this world with the promise of endless possibilities, surrounded by the rich cultural heritage of Tamil Nadu. Growing up, I discovered my love for technology, paving the way for a future in Computer Science and Engineering.</p>
 
 **Academic Pursuits**
 <p align="justify">Embracing my curiosity, I embarked on a journey of knowledge acquisition. I earned my Bachelor's degree in Computer Science and Engineering, laying the foundation for a career that would blend seamlessly with my innate love for data.</p>
