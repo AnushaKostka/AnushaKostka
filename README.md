@@ -8,7 +8,7 @@
 
 **Professional Path** :briefcase: :rocket: 🌐 <p align="justify">Devoted to nurturing emerging talents, I serve as an educator with a fervor for shaping future tech enthusiasts. Within the dynamic realm of academia, my role involves guiding students, sharing knowledge, and fostering intellectual development. Teaching transcends a mere profession; it stands as a meaningful vocation where each lecture plays a part in molding the aspirations of the next generation.</p>
 
-**Creative Pursuits**
+**Creative Pursuits** :art: ✏️ 🖌️ :thread: 🕯️ 📚 🎭 
 <p align="justify">Beyond the realms of technology and academia, my heart finds solace in the world of art. I have explored the realms of drawing, painting, macramé, embroidery, and candle making. Each stroke of the brush, every knot tied, and the flicker of candlelight tells a story of my creative spirit. In addition to my academic and artistic pursuits, I have delved into the realm of storytelling. My pen weaves tales that transport readers to uncharted realms, expressing the kaleidoscope of emotions within me.</p>
 
 
