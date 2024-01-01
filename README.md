@@ -4,9 +4,7 @@
 👋 Hi, <p align="justify">Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling. I entered this world with the promise of endless possibilities, surrounded by the rich cultural heritage of Tamil Nadu. Growing up, I discovered my love for technology, paving the way for a future in Computer Science and Engineering.</p>
 
 **Academic Pursuits**
-<p align="justify">Embracing my curiosity, I embarked on a journey of knowledge acquisition. I earned my Bachelor's degree in Computer Science and Engineering, laying the foundation for a career that would blend seamlessly with my innate love for data.</p>
-
-<p align="justify">Driven by a thirst for deeper insights, I pursued a Master's degree in Data Science and Engineering. This academic pursuit equipped me with the skills and knowledge to navigate the vast sea of data, unlocking its potential to shape a better future.</p>
+<p align="justify">Embracing my curiosity, I embarked on a journey of knowledge acquisition. I earned my Bachelor's degree in Computer Science and Engineering, laying the foundation for a career that would blend seamlessly with my innate love for data. Driven by a thirst for deeper insights, I pursued a Master's degree in Data Science and Engineering. This academic pursuit equipped me with the skills and knowledge to navigate the vast sea of data, unlocking its potential to shape a better future.</p>
 
 **Professional Path**
 <p align="justify">Fueled by a passion for sharing knowledge, I transitioned into the world of academia.  I have been fortunate to inspire and guide young minds, nurturing the next generation of tech enthusiasts.</p>
