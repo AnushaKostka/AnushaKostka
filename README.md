@@ -1,3 +1,5 @@
+## <p style = center > Embarking on Dreams: The Chronicles of Anusha Kostka's Journey </p>
+
 - 👋 Hi, I’m @AnushaKostka
 - 👀 I’m interested in DS
 - 🌱 I’m currently learning a lot in Data Science
