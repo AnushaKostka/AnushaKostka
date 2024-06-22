@@ -1,4 +1,5 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=AnushaKostka)
+![Visitor Count](https://profile-counter.glitch.me/AnushaKostka/count.svg)
 <h1 align="center">Embarking on Dreams: The Chronicles of Anusha Kostka's Journey</h1>
 
 👋 Hi There, :wave::sparkles::sparkles::sparkles::sparkles: <p align="justify">Greetings! I am Anusha Kostka, a soul shaped by the colorful landscapes of Tamil Nadu, India. My life's narrative unfolds as a symphony of learning, creativity, and a fervor for storytelling. I entered this world with the promise of endless possibilities, surrounded by the rich cultural heritage of Tamil Nadu. Growing up, I discovered my love for technology, paving the way for a future in Computer Science and Engineering.</p>
@@ -17,7 +18,7 @@
 
  
 - 📫 Reach me @AnushaKostka GitHub
-                                                                                              ![Visitor Count](https://profile-counter.glitch.me/AnushaKostka/count.svg)
+                                                                                             
 <!---
 AnushaKostka/AnushaKostka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
