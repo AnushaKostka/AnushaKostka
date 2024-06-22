@@ -17,7 +17,7 @@
 
  
 - 📫 Reach me @AnushaKostka GitHub
-https://visit-counter.vercel.app/counter.png?page=[example.com](https://github.com/AnushaKostka)
+https://visit-counter.vercel.app/counter.png?page=https://github.com/AnushaKostka)
 <!---
 AnushaKostka/AnushaKostka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
